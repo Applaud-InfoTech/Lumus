@@ -1,4 +1,4 @@
-# lumus
+# Lumus Utility & UI Library
 Lumus is a modern, lightweight, powerful and mobile-first CSS framework for modern websites and web applications. Integrate this powerful tool into your project in few steps and enjoy its owesomeness!
 
 ## Usage
